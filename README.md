@@ -1,2 +1,2 @@
-# power_bi_projects
+# Power BI Projects
 repo for various power bi projects of mime
