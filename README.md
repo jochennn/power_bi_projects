@@ -1,2 +1,4 @@
 # Power BI Projects
-repo for various power bi projects of mine
+Repo for various BI projects including:
+
+1. 
